@@ -7,9 +7,9 @@ This repository presents a comprehensive implementation of collaborative filteri
 - pandas==1.0.5
 - python==3.7
 - scikit-learn==0.24.1
-- scikit-surprise==1.1.1
+- scikit-surprise==1.1.3
 - scipy==1.6.2
-###Exploration and Data Analysis
+### Exploration and Data Analysis
 1) Download and Data Exploration
 ### Memory-Bsed Collaborative Filtering
 2) User-Based Callaborative Filtering
@@ -18,8 +18,8 @@ This repository presents a comprehensive implementation of collaborative filteri
 4) Singular Value Decomposition
 5) Matrix Factorization
 6) Non-Negative Matrix Factorization Filtering
-7 ) Explainable Matrix Factorization Filtering
-Performaces Comparison
+7) Explainable Matrix Factorization Filtering
+### Performaces Comparison
 8) Performaces Comparison
 
 Source [Carmel Wenga](https://github.com/nzhinusoftcm/review-on-collaborative-filtering)
